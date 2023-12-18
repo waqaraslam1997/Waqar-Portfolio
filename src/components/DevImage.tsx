@@ -1,8 +1,11 @@
+import Image from 'next/image'
 import React from 'react'
 
-const DevImage = () => {
+const DevImage = ({containerStyles, imgsrc}) => {
   return (
-    <div>DevImage</div>
+    <div className={`${containerStyles}`}>
+      <Image src={imgsrc} alt='' fill priority/>
+    </div>
   )
 }
 
