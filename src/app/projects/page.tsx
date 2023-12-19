@@ -7,7 +7,7 @@ import ProjectCard from "@/components/ProjectCard";
 
 const projectData = [
   {
-    image: "/work/3.png",
+    image: "/work/1.png",
     category: "react js",
     name: "Xtreme Website",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
@@ -47,7 +47,7 @@ const projectData = [
     github: "/",
   },
   {
-    image: "/work/2.png",
+    image: "/work/3.png",
     category: "Next js",
     name: "Revolution Website",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
@@ -63,7 +63,7 @@ const projectData = [
     github: "/",
   },
   {
-    image: "/work/3.png",
+    image: "/work/2.png",
     category: "fullstack",
     name: "Smart Website",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
