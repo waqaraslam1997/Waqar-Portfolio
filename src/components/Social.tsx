@@ -12,23 +12,23 @@ import {
 
 const icons = [
     {
-        path: '/',
+        path: 'https://www.youtube.com/channel/UCcpipSVsEIaAZ-KOPd4CX3g',
         name: <RiYoutubeFill />
     },
     {
-        path: '/',
+        path: 'https://github.com/waqaraslam1997',
         name: <RiGithubFill />
     },
     {
-        path: '/',
+        path: 'https://linkedin.com/in/waqar-aslam-62ab341a5',
         name: <RiLinkedinFill />
     },
     {
-        path: '/',
+        path: 'https://www.facebook.com/waqar.king.96/',
         name: <RiFacebookFill />
     },
     {
-        path: '/',
+        path: 'https://www.instagram.com/waqaraslam927/',
         name:  <RiInstagramFill />
     },
 ]

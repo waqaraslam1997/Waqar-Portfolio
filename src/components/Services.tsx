@@ -12,19 +12,19 @@ const servicesData = [
     Icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
     title: "Web Design",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus velit maiores voluptate? Illo dolorem fuga iste necessitatibus deleniti dolores fugit error quod magnam suscipit, corporis rerum, minus delectus ullam temporibus",
+      "We craft visually captivating websites that leave a lasting impression. Our designs are responsive, user-friendly, and optimized for conversions. Let us bring your brand to life with a captivating online presence.",
   },
   {
     Icon: <Blocks size={72} strokeWidth={0.8} />,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus velit maiores voluptate? Illo dolorem fuga iste necessitatibus deleniti dolores fugit error quod magnam suscipit, corporis rerum, minus delectus ullam temporibus",
+      "Mastering Next.js for dynamic, high-performance web applications. Leveraging React framework with server-side rendering for lightning-fast, SEO-friendly sites and efficient data fetching, delivering immersive user experiences.",
   },
   {
     Icon: <Gem size={72} strokeWidth={0.8} />,
-    title: "App Development",
+    title: "Website Optimizing",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus velit maiores voluptate? Illo dolorem fuga iste necessitatibus deleniti dolores fugit error quod magnam suscipit, corporis rerum, minus delectus ullam temporibus",
+      "Revolutionize your website with cutting-edge technology for unparalleled speed, performance, and user experience. we elevate your online presence to thrive in the digital landscape. Stay ahead with our optimized solutions.",
   },
 ];
 

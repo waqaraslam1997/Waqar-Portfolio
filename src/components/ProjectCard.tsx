@@ -11,7 +11,7 @@ const ProjectCard = ({ project }) => {
         {/* Image */}
         <div className="relative w-full h-[300px] flex justify-center items-center dark:bg-secondary/40 xl:bg-work_project_bg_light xl:dark:bg-work_project_bg_dark xl:bg-[110%] xl:bg-no-repeat overflow-hidden">
           <Image
-            className="absolute bottom-0 shadow-2xl"
+            className="absolute bottom-0 shadow-2xl rounded-t-lg"
             src={project.image}
             width={247}
             height={250}
@@ -23,7 +23,7 @@ const ProjectCard = ({ project }) => {
             <Link href={project.link} className="bg-gray-800 w-14 h-14 rounded-full flex justify-center items-center opacity-0 group-hover:opacity-100 scale-0 group-hover:scale-100 transition-all duration-200">
               <Link2Icon className="text-white"/>
             </Link>
-            <Link href={project.link} className="bg-gray-800 w-14 h-14 rounded-full flex justify-center items-center opacity-0 group-hover:opacity-100 scale-0 group-hover:scale-100 transition-all duration-200">
+            <Link href={project.github} className="bg-gray-800 w-14 h-14 rounded-full flex justify-center items-center opacity-0 group-hover:opacity-100 scale-0 group-hover:scale-100 transition-all duration-200">
               <Github className="text-white"/>
             </Link>
           </div>

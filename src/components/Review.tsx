@@ -25,42 +25,42 @@ const reviewData = [
     name: "John Smith",
     job: "Data Scientist",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad modi vero cupiditate dolorem id architecto",
+      "Exemplary coding skills, delivered a seamless and stunning site",
   },
   {
     avatar: "/reviews/avatar-2.png",
     name: "Emili Jackson",
     job: "Designer",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad modi vero cupiditate dolorem id architecto",
+      "Innovative solutions, transformed our online presence entirely.",
   },
   {
     avatar: "/reviews/avatar-3.png",
     name: "Mark Henry",
     job: "Game Dev",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad modi vero cupiditate dolorem id architecto",
+      "Impressive expertise in latest web technologies, highly recommend.",
   },
   {
     avatar: "/reviews/avatar-4.png",
     name: "Juliet Reo",
     job: "AI Developer",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad modi vero cupiditate dolorem id architecto",
+      "A true professional, elevated our site's performance remarkably",
   },
   {
     avatar: "/reviews/avatar-5.png",
     name: "Michael Clark",
     job: "Web Developer",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad modi vero cupiditate dolorem id architecto",
+      "Exceptional design, navigability, and functionality—impressed.",
   },
   {
     avatar: "/reviews/avatar-6.png",
     name: "Anderson",
     job: "App Developer",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad modi vero cupiditate dolorem id architecto",
+      "Exceeded expectations, a reliable expert in cutting-edge tech.",
   },
 ];
 

@@ -3,7 +3,6 @@ import { MailIcon, PhoneCall, HomeIcon } from "lucide-react";
 // component form
 import Form from "@/components/Form";
 
-
 const contact = () => {
   return (
     <section>
@@ -18,8 +17,8 @@ const contact = () => {
             </div>
             <h1 className="h1 max-w-md mb-8">Let's Work Together</h1>
             <p className="subtitle max-w-[400px]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
-              ipsam itaque.
+              If you're looking for a passionate web developer who can bring
+              your vision to life, I'd love to connect and discuss your project.
             </p>
           </div>
           {/* illustration */}

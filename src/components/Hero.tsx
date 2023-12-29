@@ -28,10 +28,7 @@ const Hero = () => {
             </div>
             <h1 className="h1 mb-4">Hello, My name is Waqar Aslam</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim esse
-              minus magni placeat amet deleniti molestiae libero aliquid
-              molestias numquam ad natus sapiente tenetur dicta autem porro,
-              alias iure veritatis.
+            I have 5 years of experience in creating modern and user-friendly websites. I specialize in front-end development, utilizing the latest technologies such as Tailwind CSS and JavaScript frameworks like Next.Js.
             </p>
           
             {/* Button */}
