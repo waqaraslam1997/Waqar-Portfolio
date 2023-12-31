@@ -9,7 +9,14 @@ const useScrollProgress = () => {
             const scrollHeight: any = document.body.scrollHeight - window.innerHeight
 
             if (scrollHeight) {
-                setCompletion(Number(currentProgress / scrollHeight).toFixed(2) * 100);
+                // Calculate the completion as a numeric value first and then convert to a fixed decimal string
+                const completionValue = Number((currentProgress / scrollHeight).toFixed(2));
+                
+                // Multiply the numeric completion value by 100
+                const completionPercentage = completionValue * 100;
+            
+                // Set the completion percentage in state
+                setCompletion(completionPercentage);
             }
         };
         window.addEventListener('scroll', updateScrollCompletion);

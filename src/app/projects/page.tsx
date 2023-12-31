@@ -114,7 +114,7 @@ const projectData = [
 
 const uniqueCategories = [
   "all projects",
-  ...new Set(projectData.map((item) => item.category)),
+  ...Array.from(new Set(projectData.map((item) => item.category))),
 ];
 
 const Projects = () => {
