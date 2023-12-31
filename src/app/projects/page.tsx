@@ -117,7 +117,7 @@ const uniqueCategories = [
   ...new Set(projectData.map((item) => item.category)),
 ];
 
-const projects = () => {
+const Projects = () => {
   const [categories, setCategories] = useState(uniqueCategories);
   const [category, setCategory] = useState("all projects");
 
@@ -169,4 +169,4 @@ const projects = () => {
   );
 };
 
-export default projects;
+export default Projects;
