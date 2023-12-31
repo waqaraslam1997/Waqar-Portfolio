@@ -15,10 +15,9 @@ const contact = () => {
               <span className=" w-8 h-[2px] bg-primary"></span>
               Say Hello 👋
             </div>
-            <h1 className="h1 max-w-md mb-8">Let's Work Together</h1>
+            <h1 className="h1 max-w-md mb-8">{"Let's Work Together"}</h1>
             <p className="subtitle max-w-[400px]">
-              If you're looking for a passionate web developer who can bring
-              your vision to life, I'd love to connect and discuss your project.
+              {"If you're looking for a passionate web developer who can bring your vision to life, I'd love to connect and discuss your project."}
             </p>
           </div>
           {/* illustration */}
